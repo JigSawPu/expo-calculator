@@ -8,6 +8,11 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.jigsawpu.pocketcalculator"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1b4e6dea-1859-4574-901d-3a4aec6bace4"
+      }
     }
   }
 }
